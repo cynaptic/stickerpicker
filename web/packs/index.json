@@ -1,6 +1,7 @@
 {
   "packs": [
-    "mad_man_emoji.json"
+    "mad_man_emoji.json",
+    "LoveLiveSuperstar.json"
   ],
   "homeserver_url": "https://matrix.libresys.net"
 }
